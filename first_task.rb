@@ -38,21 +38,18 @@ class Car < RentAvehicle
     @name
     def getname
         @name = "Car"
-
     end
 end
 class MotorCycle < RentAvehicle
 	@name
     def getname
         @name = "MotorCycle"
-
     end
 end
 class Van < RentAvehicle
 	@name
     def getname
         @name = "Van"
-
     end
 end
 
